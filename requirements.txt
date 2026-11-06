@@ -1,0 +1,7 @@
+pymupdf
+numpy
+pandas
+scikit-learn
+sentence-transformers
+xgboost
+networkx
