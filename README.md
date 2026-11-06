@@ -94,6 +94,3 @@ Console view: the same sections without Similar or Repeated Questions, Hidden Qu
 
 ## Future Improvements
 OCR for scanned PDFs, human-verified topic and difficulty labels, larger datasets, fine-tuned transformer models, richer question-type classifiers, advanced time-series models, ensemble prediction, better automatic concept extraction.
-
-## Viva Description
-ExamLens is an ML-driven exam intelligence system that analyzes syllabus and historical question-paper PDFs. NLP techniques such as Sentence-BERT are used to convert unstructured exam questions into semantic representations and identify relationships between questions and concepts. Machine-learning models including SVM, Random Forest, XGBoost and K-Means are then used for topic classification, difficulty prediction, future topic prediction and unsupervised pattern discovery. Temporal validation prevents future-data leakage. A NetworkX knowledge graph represents relationships among topics, concepts, questions, years, marks and question types.
